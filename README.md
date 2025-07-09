@@ -63,4 +63,4 @@ Portfolio: https://portfolio0fuayanchakraborty.netlify.app
 
 GitHub: https://github.com/upayanchakraborty
 
-LinkedIn: [(https://www.linkedin.com/in/upayan-chakraborty-8643b2213/)]
+LinkedIn: https://www.linkedin.com/in/upayan-chakraborty-8643b2213/
